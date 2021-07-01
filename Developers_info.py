@@ -34,6 +34,6 @@ def info(a):
     label1.bind('<Configure>', resize)
     label1.place(relx=0.0, rely=0.0, relheight=1, relwidth=1.0)
 
-    r.menubar(info_screen, 'info_screen', " ", b)
+    r.menubar(info_screen, 'info_screen', '', b)
 
     info_screen.mainloop()
