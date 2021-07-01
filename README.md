@@ -12,3 +12,7 @@ This particular program contains features such as:
 1. Forgot Password feature for login purpose
 2. Facility to keep note 🗒 
 3. Checking validity of email, when changed 
+
+REQUIREMENTS:
+1. Display Resolution 125% (preferred) 
+2. Microsoft Excel (for printing)
